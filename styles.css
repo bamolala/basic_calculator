@@ -54,7 +54,7 @@ button:hover {
 button:active {
     background-color: #555;
 }
-#operators {
+.operators {
     font-size: 20px;
     color: #4cd21f;
     font-weight: 700;
